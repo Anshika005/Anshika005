@@ -8,11 +8,10 @@
 ---
 
 ## 🌟 About Me
-- 🎓 B.Tech CSE student 
+- 🎓 B.Tech CSE student  
 - 💻 Passionate about **Frontend Development & MERN Stack**  
 - ☁️ Exploring **Cloud Platforms (AWS, Vercel, Railway)**  
-- 🤝 Love collaborating and solving real-world problems  
-- ⚡ Fun fact: *I think I am funny 😄*  
+- 🤝 Love collaborating and solving real-world problems   
 
 ---
 
@@ -40,10 +39,16 @@
 
 ---
 
+## 📊 Languages Used  
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anshika005&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika005&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anshika005&label=Visitors&color=FF6EC7&style=for-the-badge" alt="Profile Views" />
+</p>
 
 
 
