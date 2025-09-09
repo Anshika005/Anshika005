@@ -26,7 +26,7 @@
 
 ## 🛠️ Languages and Tools  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,firebase,git,github,vscode,postman,docker,vercel,aws" />
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker,vercel,aws" />
 </p>  
 
 ---
@@ -38,9 +38,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anshika005&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
-</p>
+
 
 
 <!--
