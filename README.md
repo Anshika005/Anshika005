@@ -7,10 +7,12 @@
 
 ---
 
-## 🌟 About Me  
+## 🌟 About Me
+- 🎓 B.Tech CSE student 
 - 💻 Passionate about **Frontend Development & MERN Stack**  
 - ☁️ Exploring **Cloud Platforms (AWS, Vercel, Railway)**  
-- 🤝 Love collaborating and solving real-world problems   
+- 🤝 Love collaborating and solving real-world problems  
+- ⚡ Fun fact: *I think I am funny 😄*  
 
 ---
 
@@ -26,7 +28,7 @@
 
 ## 🛠️ Languages and Tools  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,docker,vercel,aws" />
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,vercel,aws" />
 </p>  
 
 ---
@@ -37,6 +39,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Anshika005&label=Profile%20views&color=6C63FF&style=flat" alt="Profile views" />
+</p>
 
 
 
