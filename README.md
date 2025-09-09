@@ -45,9 +45,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anshika005&label=Visitors&color=FF6EC7&style=for-the-badge" alt="Profile Views" />
+  Thanks for visiting ❤️ Have a great day! 🚀  
 </p>
 
 
