@@ -39,6 +39,13 @@
 
 ---
 
+## 📈 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshika005&show_icons=true&theme=tokyonight&hide_border=true&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats"/>
+</p>
+
+---
+
 ## 📊 Languages Used  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika005&layout=compact&theme=tokyonight&hide_border=true&title_color=6C63FF" alt="Top Languages"/>
